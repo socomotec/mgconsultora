@@ -191,15 +191,20 @@ header .intro-text {
 	display: inline-block;
 }
 #about p {
-	margin-top: 40px;
 	margin-bottom: 30px;
 	line-height: 22px;
 }
 /* Portfolio Section */
 #portfolio {
 	padding: 120px 0;
+
+}
+
+#servicios{
+	padding: 120px 0;
 	background: #f6f6f6;
 }
+
 .categories {
 	padding-bottom: 30px;
 	text-align: center;
@@ -321,11 +326,12 @@ ol.type li a:hover {
 #portfolio i.fa {
 	font-size: 20px;
 	padding: 5px;
-	color: #E87E04;
+
 }
 /* Contact Section */
 #contact {
 	padding: 120px 0 60px 0;
+	background: #f6f6f6;
 }
 #contact h3 {
 	padding-top: 20px;
@@ -409,7 +415,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 /* Footer Section*/
 #footer {
-	background: #f6f6f6;
+
 	color: #777;
 	padding: 30px 0 25px 0;
 }
