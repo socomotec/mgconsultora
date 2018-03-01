@@ -1,8 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta name="HandheldFriendly" content="true" />
 <title>MGConsultora</title>
 <meta name="description" content="">
 <meta name="author" content="">
@@ -41,9 +42,10 @@
     <div class="container">
       <div class="row">
         <div class="intro-text">
-          <h1>MGconsultora</h1>
+          <h1>MG</h1>
+          <h2>consultora</h2>
           <hr>
-          <p>Proyectos • Geomensuras • Topografías</p>
+          <p>Geomensuras • Topografías</p>
           <a href="#about" class="btn btn-default btn-lg page-scroll">Leer Más</a> </div>
       </div>
     </div>
