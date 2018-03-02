@@ -41,6 +41,8 @@
   <div class="intro">
     <div class="container">
       <div class="row">
+        <br><br>
+        <br><br>
         <div class="intro-text">
           <h1>MG</h1>
           <h2>consultora</h2>
@@ -66,9 +68,6 @@
           <li class="hidden"> <a href="#page-top"></a> </li>
           <li> <a class="page-scroll" href="#about">Nosotros</a> </li>
           <li> <a class="page-scroll" href="#servicios">Servicios</a> </li>
-          <br class="visible-xs">
-          <br class="visible-xs">
-          <br class="visible-xs">
           <li> <a class="page-scroll" href="#portfolio">Galeria</a> </li>
           <li> <a class="page-scroll" href="#contact">Contacto</a> </li>
         </ul>
@@ -89,7 +88,7 @@
         <div class="about-text">
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare diam commodo nibh.</p>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare.</p>
-          <a href="#portfolio" class="btn btn-default btn-lg page-scroll">My Portfolio</a> </div>
+          <a href="#portfolio" class="btn btn-default btn-lg page-scroll">Nuestra Galeria</a> </div>
       </div>
     </div>
   </div>
@@ -179,13 +178,14 @@
       <ul class="cat">
         <li>
           <ol class="type">
-            <li><a href="#" data-filter="*" class="active">All</a></li>
-            <li><a href="#" data-filter=".graphic">Graphic Design</a></li>
+            <li><a href="#" data-filter="*" class="active">Todos</a></li>
+            <li><a href="#" data-filter=".proyecto">Proyectos</a></li>
+            <li><a href="#" data-filter=".gps">GPS</a></li>
             <br class="visible-xs">
             <br class="visible-xs">
-            <br class="visible-xs">
-            <li><a href="#" data-filter=".illustration">Illustration</a></li>
-            <li><a href="#" data-filter=".photography">Photography</a></li>
+            <br class="visible-xs">           
+            <li><a href="#" data-filter=".drone">Drone</a></li>
+            <li><a href="#" data-filter=".control">Control Topografico</a></li>
           </ol>
         </li>
       </ul>
@@ -193,7 +193,7 @@
     </div>
     <div class="row">
       <div class="portfolio-items">
-        <div class="col-sm-6 col-md-3 col-lg-3 graphic">
+        <div class="col-sm-6 col-md-3 col-lg-3 proyecto">
           <div class="portfolio-item">
             <div class="hover-bg"> <a href="img/portfolio/01-large.jpg" title="Project Title" data-lightbox-gallery="gallery1">
               <div class="hover-text">
@@ -202,7 +202,7 @@
               <img src="img/portfolio/01-small.jpg" class="img-responsive" alt="Project Title"> </a> </div>
           </div>
         </div>
-        <div class="col-sm-6 col-md-3 col-lg-3 illustration">
+        <div class="col-sm-6 col-md-3 col-lg-3 gps">
           <div class="portfolio-item">
             <div class="hover-bg"> <a href="img/portfolio/02-large.jpg" title="Project Title" data-lightbox-gallery="gallery1">
               <div class="hover-text">
@@ -211,7 +211,7 @@
               <img src="img/portfolio/02-small.jpg" class="img-responsive" alt="Project Title"> </a> </div>
           </div>
         </div>
-        <div class="col-sm-6 col-md-3 col-lg-3 graphic">
+        <div class="col-sm-6 col-md-3 col-lg-3 drone">
           <div class="portfolio-item">
             <div class="hover-bg"> <a href="img/portfolio/03-large.jpg" title="Project Title" data-lightbox-gallery="gallery1">
               <div class="hover-text">
@@ -220,7 +220,7 @@
               <img src="img/portfolio/03-small.jpg" class="img-responsive" alt="Project Title"> </a> </div>
           </div>
         </div>
-        <div class="col-sm-6 col-md-3 col-lg-3 graphic">
+        <div class="col-sm-6 col-md-3 col-lg-3 proyecto">
           <div class="portfolio-item">
             <div class="hover-bg"> <a href="img/portfolio/04-large.jpg" title="Project Title" data-lightbox-gallery="gallery1">
               <div class="hover-text">
@@ -229,7 +229,7 @@
               <img src="img/portfolio/04-small.jpg" class="img-responsive" alt="Project Title"> </a> </div>
           </div>
         </div>
-        <div class="col-sm-6 col-md-3 col-lg-3 illustration">
+        <div class="col-sm-6 col-md-3 col-lg-3 gps">
           <div class="portfolio-item">
             <div class="hover-bg"> <a href="img/portfolio/05-large.jpg" title="Project Title" data-lightbox-gallery="gallery1">
               <div class="hover-text">
@@ -238,7 +238,7 @@
               <img src="img/portfolio/05-small.jpg" class="img-responsive" alt="Project Title"> </a> </div>
           </div>
         </div>
-        <div class="col-sm-6 col-md-3 col-lg-3 photography">
+        <div class="col-sm-6 col-md-3 col-lg-3 proyecto">
           <div class="portfolio-item">
             <div class="hover-bg"> <a href="img/portfolio/06-large.jpg" title="Project Title" data-lightbox-gallery="gallery1">
               <div class="hover-text">
@@ -247,7 +247,7 @@
               <img src="img/portfolio/06-small.jpg" class="img-responsive" alt="Project Title"> </a> </div>
           </div>
         </div>
-        <div class="col-sm-6 col-md-3 col-lg-3 photography">
+        <div class="col-sm-6 col-md-3 col-lg-3 drone">
           <div class="portfolio-item">
             <div class="hover-bg"> <a href="img/portfolio/07-large.jpg" title="Project Title" data-lightbox-gallery="gallery1">
               <div class="hover-text">
@@ -256,7 +256,7 @@
               <img src="img/portfolio/07-small.jpg" class="img-responsive" alt="Project Title"> </a> </div>
           </div>
         </div>
-        <div class="col-sm-6 col-md-3 col-lg-3 graphic">
+        <div class="col-sm-6 col-md-3 col-lg-3 control">
           <div class="portfolio-item">
             <div class="hover-bg"> <a href="img/portfolio/08-large.jpg" title="Project Title" data-lightbox-gallery="gallery1">
               <div class="hover-text">
@@ -265,7 +265,7 @@
               <img src="img/portfolio/08-small.jpg" class="img-responsive" alt="Project Title"> </a> </div>
           </div>
         </div>
-        <div class="col-sm-6 col-md-3 col-lg-3 illustration">
+        <div class="col-sm-6 col-md-3 col-lg-3 proyecto">
           <div class="portfolio-item">
             <div class="hover-bg"> <a href="img/portfolio/09-large.jpg" title="Project Title" data-lightbox-gallery="gallery1">
               <div class="hover-text">
@@ -274,7 +274,7 @@
               <img src="img/portfolio/09-small.jpg" class="img-responsive" alt="Project Title"> </a> </div>
           </div>
         </div>
-        <div class="col-sm-6 col-md-3 col-lg-3 photography">
+        <div class="col-sm-6 col-md-3 col-lg-3 gps">
           <div class="portfolio-item">
             <div class="hover-bg"> <a href="img/portfolio/10-large.jpg" title="Project Title" data-lightbox-gallery="gallery1">
               <div class="hover-text">
@@ -283,7 +283,7 @@
               <img src="img/portfolio/10-small.jpg" class="img-responsive" alt="Project Title"> </a> </div>
           </div>
         </div>
-        <div class="col-sm-6 col-md-3 col-lg-3 photography">
+        <div class="col-sm-6 col-md-3 col-lg-3 proyecto">
           <div class="portfolio-item">
             <div class="hover-bg"> <a href="img/portfolio/11-large.jpg" title="Project Title" data-lightbox-gallery="gallery1">
               <div class="hover-text">
@@ -292,7 +292,7 @@
               <img src="img/portfolio/11-small.jpg" class="img-responsive" alt="Project Title"> </a> </div>
           </div>
         </div>
-        <div class="col-sm-6 col-md-3 col-lg-3 graphic">
+        <div class="col-sm-6 col-md-3 col-lg-3 control">
           <div class="portfolio-item">
             <div class="hover-bg"> <a href="img/portfolio/12-large.jpg" title="Project Title" data-lightbox-gallery="gallery1">
               <div class="hover-text">
@@ -317,23 +317,23 @@
         <div class="row">
           <div class="col-md-6">
             <div class="form-group">
-              <input type="text" id="name" class="form-control" placeholder="Name" required="required">
+              <input type="text" id="name" class="form-control" placeholder="Nombre" required="required">
               <p class="help-block text-danger"></p>
             </div>
           </div>
           <div class="col-md-6">
             <div class="form-group">
-              <input type="email" id="email" class="form-control" placeholder="Email" required="required">
+              <input type="email" id="email" class="form-control" placeholder="Correo" required="required">
               <p class="help-block text-danger"></p>
             </div>
           </div>
         </div>
         <div class="form-group">
-          <textarea name="message" id="message" class="form-control" rows="4" placeholder="Message" required></textarea>
+          <textarea name="message" id="message" class="form-control" rows="4" placeholder="Mensaje" required></textarea>
           <p class="help-block text-danger"></p>
         </div>
         <div id="success"></div>
-        <button type="submit" class="btn btn-default btn-lg">Send Message</button>
+        <button type="submit" class="btn btn-default btn-lg">Enviar Mensaje</button>
       </form>
       <div class="social">
         <ul>
