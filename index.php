@@ -181,6 +181,9 @@
           <ol class="type">
             <li><a href="#" data-filter="*" class="active">All</a></li>
             <li><a href="#" data-filter=".graphic">Graphic Design</a></li>
+            <br class="visible-xs">
+            <br class="visible-xs">
+            <br class="visible-xs">
             <li><a href="#" data-filter=".illustration">Illustration</a></li>
             <li><a href="#" data-filter=".photography">Photography</a></li>
           </ol>
