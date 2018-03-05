@@ -87,10 +87,23 @@
 
       <div class="col-md-8 col-md-offset-2">
         <div class="about-text">
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare diam commodo nibh.</p>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare.</p>
-          <a href="#portfolio" class="btn btn-default btn-lg page-scroll">My Portfolio</a> </div>
+          <p> MG Ingeniería es una empresa conformada por profesionales con capacidad integral, de desempeño interdisciplinario, con actitud de liderazgo y capacidad de gestión, con personas dedicadas a entregar un servicio de calidad.
+          </p>
+          <p>
+            Posee también, una capacidad de abordar con enfoque sistémico los diversos proyectos y áreas en que se desenvuelve: industrial, agroindustrial, vial, mecánica, procesos, infraestructura, sanitaria y medioambiental.
+          </p>
+          <p>
+            Los primeros pasos de MG Ingeniería  fueron en el año 2002 y de manera independiente, en manos de Miguel González Sanhueza, para con el paso de los años llegar a convertirse en lo que es hoy en día, una empresa que presta servicios de calidad a sus clientes y de reconocida reputación.
+          </p>
+            Algunos de los clientes que han trabajado con nuestra empresa tanto del ámbito público como privado, son: Axioma Ingenieros Consultores, Prisma Ingeniería, Quarzo Ingenieros Consultores, distintas Municipalidades de la Región y Servicios de Salud del País.
+            Nuestra área de trabajo también cubre asesorías a otros países como: Brasil y Colombia.
+          </p>
+
       </div>
+    </div>
+    <div class="section-title text-center center">
+      <h2>Misión</h2>
+      <hr>
     </div>
   </div>
 </div>
