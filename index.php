@@ -83,35 +83,53 @@
       <hr>
     </div>
     <div class="row">
-
       <div class="col-md-8 col-md-offset-2">
         <div class="about-text">
-<<<<<<< HEAD
-          <p> MG Ingeniería es una empresa conformada por profesionales con capacidad integral, de desempeño interdisciplinario, con actitud de liderazgo y capacidad de gestión, con personas dedicadas a entregar un servicio de calidad.
+          <p class="text-justify"> MG Consultora es una empresa conformada por profesionales con capacidad integral, de desempeño interdisciplinario, con actitud de liderazgo y capacidad de gestión, con personas dedicadas a entregar un servicio de calidad.
           </p>
-          <p>
+          <p class="text-justify">
             Posee también, una capacidad de abordar con enfoque sistémico los diversos proyectos y áreas en que se desenvuelve: industrial, agroindustrial, vial, mecánica, procesos, infraestructura, sanitaria y medioambiental.
           </p>
-          <p>
+          <p class="text-justify">
             Los primeros pasos de MG Ingeniería  fueron en el año 2002 y de manera independiente, en manos de Miguel González Sanhueza, para con el paso de los años llegar a convertirse en lo que es hoy en día, una empresa que presta servicios de calidad a sus clientes y de reconocida reputación.
           </p>
+          <p class="text-justify">
             Algunos de los clientes que han trabajado con nuestra empresa tanto del ámbito público como privado, son: Axioma Ingenieros Consultores, Prisma Ingeniería, Quarzo Ingenieros Consultores, distintas Municipalidades de la Región y Servicios de Salud del País.
             Nuestra área de trabajo también cubre asesorías a otros países como: Brasil y Colombia.
           </p>
-
-=======
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare diam commodo nibh.</p>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare.</p>
-          <a href="#portfolio" class="btn btn-default btn-lg page-scroll">Nuestra Galeria</a> </div>
->>>>>>> ae7490b2a1c10210a28c5f7e389d151c221a9988
+        </div>
       </div>
     </div>
-    <div class="section-title text-center center">
-      <h2>Misión</h2>
-      <hr>
+    <div class="col-md-8 col-md-offset-2">
+      <div class="col-md-5">
+        <div class="section-title text-center center">
+          <h2>Misión</h2>
+          <hr>
+        </div>
+      <div class="row">
+
+          <p class="text-justify">La Misión de MG Consultora es Prestar servicios de calidad para cumplir con los requerimientos de los clientes de manera personalizada y haciendo uso de la experiencia conseguida tras años de trabajo en el rubro.</p>
+
+      </div>
+      </div>
+      <div class="col-md-5 col-md-offset-2">
+        <div class="section-title text-center center">
+          <h2>Visión</h2>
+          <hr>
+        </div>
+      <div class="row">
+        <p class="text-justify">Ser una empresa reconocida dentro del medio y destacarse por su excelencia,  profesionalismo y calidad en el área de la ingeniería.</p>
+      </div>
+      </div>
+
     </div>
-  </div>
+
+
+
+
 </div>
+</div>
+
 <!-- Servicios Section -->
 <div id="servicios">
   <div class="container">
@@ -202,7 +220,7 @@
             <li><a href="#" data-filter=".gps">GPS</a></li>
             <br class="visible-xs">
             <br class="visible-xs">
-            <br class="visible-xs">           
+            <br class="visible-xs">
             <li><a href="#" data-filter=".drone">Drone</a></li>
             <li><a href="#" data-filter=".control">Control Topografico</a></li>
           </ol>
