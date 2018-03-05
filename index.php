@@ -107,9 +107,7 @@
           <hr>
         </div>
       <div class="row">
-
-          <p class="text-justify">La Misión de MG Consultora es Prestar servicios de calidad para cumplir con los requerimientos de los clientes de manera personalizada y haciendo uso de la experiencia conseguida tras años de trabajo en el rubro.</p>
-
+        <p class="text-justify">La Misión de MG Consultora es Prestar servicios de calidad para cumplir con los requerimientos de los clientes de manera personalizada y haciendo uso de la experiencia conseguida tras años de trabajo en el rubro.</p>
       </div>
       </div>
       <div class="col-md-5 col-md-offset-2">
