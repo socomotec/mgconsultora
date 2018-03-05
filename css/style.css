@@ -149,7 +149,7 @@ hr {
 	padding: 0;
 	text-align: center;
 	color: #333;
-	background: url(../img/intro-bg.jpg) no-repeat center top;
+	background: url(../img/intro-bg3.jpg) no-repeat center top;
 	background-color: #e5e5e5;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -160,7 +160,7 @@ hr {
 	padding: 10px 0 40px 0;
 }
 .intro h1 {
-	font-size: 60px;
+	font-size: 80px;
 	font-weight: 600;
 	letter-spacing: 2px;
 	text-transform: uppercase;
